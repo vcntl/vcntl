@@ -4,4 +4,4 @@
 - 🤔 I’m very interested in artificial intelligence
 - 📫 How to reach me: vicente1111@163.com
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vcntl&show_icons=true&theme=radical)]
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vcntl&show_icons=true&theme=radical)
